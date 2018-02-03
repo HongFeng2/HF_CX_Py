@@ -1,0 +1,26 @@
+missing module named resource - imported by posix, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named posix - imported by os, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named _posixsubprocess - imported by subprocess, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named readline - imported by cmd, code, pdb, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named _winreg - imported by platform, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named 'java.lang' - imported by platform, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named termios - imported by tty, serial.serialposix, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py, getpass
+missing module named grp - imported by shutil, tarfile, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named _dummy_threading - imported by dummy_threading, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named org - imported by copy, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py, netrc, getpass
+missing module named 'org.python' - imported by pickle, D:\WMStrom\Work\HongFeng2\HF_CX\HF_CX_Py\com.py, xml.sax
+missing module named fcntl - imported by serial.serialposix
+missing module named 'System.IO' - imported by serial.serialcli
+missing module named System - imported by serial.serialcli
+missing module named wsaccel - imported by websocket._utils
+missing module named backports - imported by websocket._ssl_compat
+missing module named StringIO - imported by six
+missing module named "'six.moves.urllib'.parse" - imported by websocket._url
+missing module named Cookie - imported by websocket._cookiejar
+missing module named 'wsaccel.xormask' - imported by websocket._abnf
